@@ -5,5 +5,6 @@ public class Main {
 
         TicTacToe ticTacToe = new TicTacToe();
         ticTacToe.playGame();
+        System.out.println("message on master");
     }
 }
